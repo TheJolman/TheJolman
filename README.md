@@ -1,6 +1,9 @@
 ## Hi, I'm Josh.
   
-I'm a full time student at the moment, and I'm currently learning:
+I'm a full time student, and a (mostly) solo software dev in my free time.  
+Free and open source software enthusiest.
+  
+Things I'm currently learning:  
 - pandas/numpy/lets_plot for Data Science
 - Sveltekit and webdev in general  
 - Nix for packaging software and creating declarative environments
