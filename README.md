@@ -10,5 +10,5 @@ I'm a full time student at the moment, and I'm currently learning:
 I mainly develop with C++ (when I have time), and I love to spend way too much time  
 trying to perfect my config (check out my `.dotfiles` repo if you're interested).  
   
-### I'm always looking to collaborate on some project, especially if means learning somehting new.  
+**I'm always looking to collaborate on some project, especially if means learning something new.**  
 Reach me at -> jolman@duck.com  
