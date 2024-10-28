@@ -1,7 +1,7 @@
 ## Hi, I'm Josh.
   
 I'm a full time student, and a (mostly) solo software dev in my free time.  
-Free and open source software enthusiest.
+Free and open source software enthusiast.
   
 Things I'm currently learning:  
 - pandas/numpy/lets_plot/scikit-learn for Data Science
