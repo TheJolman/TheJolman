@@ -9,6 +9,7 @@ I'm a new open source developer, currently looking for work in SWE/SDE or DevOps
 - Cloud infra (Cloudflare, AWS, Fly)
 
 ### What I'm doing now
-- Working on projects for [@acmcsufoss](https://github.com/acmcsufoss)
+- Working on [@acmcsufoss](https://github.com/acmcsufoss)'s open source projects
+- Maintaining my existing projects and contributing to others :)
 - Perfecting my Unix rice 👉 [thejolman/.dotfiles](https://github.com/thejolman/.dotfiles)
-- Cleaning up or finishing my existing open source projects
+- Preparing for techincal interviews
