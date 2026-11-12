@@ -1,15 +1,15 @@
 ## Hi, I'm Josh.
   
-I'm a new open source developer, currently looking for work in SWE/SDE or DevOps. CS Grad from CSU, Fullerton.
+I'm an open source developer, and I work in the RF industry. Graduate student @ CSU, Fullerton.
 
 ### My areas of focus
+- RF test automation
 - Backend web (Go, Typescript, Python)
-- Developer tools (Go, C/C++)
-- Linux System Administration
-- Cloud infra (Cloudflare, AWS, Fly)
+- Developer tools (Go, C/C++, Python)
+- Cloud computing and Linux admin
 
 ### What I'm doing now
-- Working on [@acmcsufoss](https://github.com/acmcsufoss)'s open source projects
-- Maintaining my existing projects and contributing to others :)
-- Perfecting my Unix rice 👉 [thejolman/.dotfiles](https://github.com/thejolman/.dotfiles)
-- Preparing for techincal interviews
+- Developing the website for [Fullyhacks](https://fullyhacks.acmcsuf.com) 2027
+- Maintaining [@acmcsufoss](https://github.com/acmcsufoss)'s various projects/apps
+- Working through a Graduate CS program
+- Contributing to open source projects in my free time
